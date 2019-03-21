@@ -1,0 +1,3 @@
+Please enter an integer: hello, my id is 117494 and my parent's id is 113246
+Please enter an integer: hello, my id is 117495 and my parent's id is 113246
+Please enter an integer: All child processes are now done!

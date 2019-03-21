@@ -1,0 +1,9 @@
+Please enter an integer: hello, my id is 126596 and my parent's id is 126387
+Please enter an integer: hello, my id is 126593 and my parent's id is 126387
+Please enter an integer: hello, my id is 126594 and my parent's id is 126387
+Please enter an integer: hello, my id is 126598 and my parent's id is 126387
+Please enter an integer: hello, my id is 126600 and my parent's id is 126387
+Please enter an integer: hello, my id is 126601 and my parent's id is 126387
+Please enter an integer: hello, my id is 126597 and my parent's id is 126387
+Please enter an integer: hello, my id is 126599 and my parent's id is 126387
+Please enter an integer: All child processes are now done!

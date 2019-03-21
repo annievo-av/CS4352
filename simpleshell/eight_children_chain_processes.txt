@@ -1,0 +1,18 @@
+Waiting for single child's pid 139791 to finish
+Please enter an integer: hello, my id is 139930 and my parent's id is 139791
+Waiting for single child's pid 139791 to finish
+Please enter an integer: hello, my id is 139934 and my parent's id is 139791
+Waiting for single child's pid 139791 to finish
+Please enter an integer: hello, my id is 139933 and my parent's id is 139791
+Waiting for single child's pid 139791 to finish
+Please enter an integer: hello, my id is 139929 and my parent's id is 139791
+Waiting for single child's pid 139791 to finish
+Please enter an integer: hello, my id is 139935 and my parent's id is 139791
+Waiting for single child's pid 139791 to finish
+Please enter an integer: hello, my id is 139932 and my parent's id is 139791
+Waiting for single child's pid 139791 to finish
+Please enter an integer: hello, my id is 139928 and my parent's id is 139791
+Waiting for single child's pid 139791 to finish
+Please enter an integer: hello, my id is 139931 and my parent's id is 139791
+Waiting for single child's pid 139791 to finish
+Please enter an integer: All child processes are now done (chain)!
