@@ -1,0 +1,4 @@
+Producer: Produced item 1 
+Consumer: Consumed item 1
+Producer: Produced item 2 
+Consumer: Consumed item 2
